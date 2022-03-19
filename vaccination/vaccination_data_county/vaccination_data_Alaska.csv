@@ -1,0 +1,31 @@
+date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
+2022-03-18T00:00:00.000,Alaska,Bethel Census Area,97.6,13186,12130,5303
+2022-03-18T00:00:00.000,Alaska,Ketchikan Gateway Borough,97.6,9926,9065,4029
+2022-03-18T00:00:00.000,Alaska,Dillingham Census Area,97.6,2807,2558,1102
+2022-03-18T00:00:00.000,Alaska,Matanuska-Susitna Borough,97.6,49297,43565,16232
+2022-03-18T00:00:00.000,Alaska,Southeast Fairbanks Census Area,97.6,3128,2779,1016
+2022-03-18T00:00:00.000,Alaska,Yakutat City and Borough,97.6,472,453,239
+2022-03-18T00:00:00.000,Alaska,Kodiak Island Borough,97.6,9311,8410,3892
+2022-03-18T00:00:00.000,Alaska,Sitka City and Borough,97.6,7083,6644,3673
+2022-03-18T00:00:00.000,Alaska,Haines Borough,97.6,1848,1716,939
+2022-03-18T00:00:00.000,Alaska,Hoonah-Angoon Census Area,97.6,1581,1495,901
+2022-03-18T00:00:00.000,Alaska,Northwest Arctic Borough,97.6,4902,4571,2289
+2022-03-18T00:00:00.000,Alaska,Unknown County,97.6,14623,10667,3591
+2022-03-18T00:00:00.000,Alaska,Fairbanks North Star Borough,97.6,65529,57625,19280
+2022-03-18T00:00:00.000,Alaska,Petersburg Census Area,97.6,2643,2467,1246
+2022-03-18T00:00:00.000,Alaska,Wrangell City and Borough,97.6,1526,1443,812
+2022-03-18T00:00:00.000,Alaska,Kenai Peninsula Borough,97.6,31167,28128,13129
+2022-03-18T00:00:00.000,Alaska,Lake and Peninsula Borough,97.6,1004,909,510
+2022-03-18T00:00:00.000,Alaska,Prince of Wales-Hyder Census Area,97.6,3611,3298,1656
+2022-03-18T00:00:00.000,Alaska,Yukon-Koyukuk Census Area,97.6,4322,4007,2088
+2022-03-18T00:00:00.000,Alaska,Aleutians West Census Area,97.6,4154,3519,1094
+2022-03-18T00:00:00.000,Alaska,Valdez-Cordova Census Area,97.6,6234,5765,2549
+2022-03-18T00:00:00.000,Alaska,Kusilvak Census Area,97.6,6000,5471,2133
+2022-03-18T00:00:00.000,Alaska,Bristol Bay Borough,97.6,1091,911,321
+2022-03-18T00:00:00.000,Alaska,Nome Census Area,97.6,7357,7027,3395
+2022-03-18T00:00:00.000,Alaska,Anchorage Municipality,97.6,216244,192158,80184
+2022-03-18T00:00:00.000,Alaska,Denali Borough,97.6,1307,1128,538
+2022-03-18T00:00:00.000,Alaska,Skagway Municipality,97.6,923,827,446
+2022-03-18T00:00:00.000,Alaska,Juneau City and Borough,97.6,26461,24406,13050
+2022-03-18T00:00:00.000,Alaska,North Slope Borough,97.6,4071,3792,1636
+2022-03-18T00:00:00.000,Alaska,Aleutians East Borough,97.6,2830,2504,864

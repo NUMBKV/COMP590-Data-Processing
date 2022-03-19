@@ -1,0 +1,7 @@
+date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
+2022-03-18T00:00:00.000,Hawaii,Honolulu County,100,,,
+2022-03-18T00:00:00.000,Hawaii,Hawaii County,,,,
+2022-03-18T00:00:00.000,Hawaii,Kalawao County,,,,
+2022-03-18T00:00:00.000,Hawaii,Kauai County,,,,
+2022-03-18T00:00:00.000,Hawaii,Maui County,100,,,
+2022-03-18T00:00:00.000,Hawaii,Unknown County,100,,,

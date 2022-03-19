@@ -1,0 +1,5 @@
+date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
+2022-03-18T00:00:00.000,,Unknown County,,20340,18002,11225
+2022-03-18T00:00:00.000,,Unknown County,,45253,43074,19872
+2022-03-18T00:00:00.000,,Unknown County,,62155,51618,9546
+2022-03-18T00:00:00.000,,Unknown County,,30113,24915,5149

@@ -1,0 +1,10 @@
+date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
+2022-03-18T00:00:00.000,Connecticut,Fairfield County,98.3,950409,760586,357535
+2022-03-18T00:00:00.000,Connecticut,Middlesex County,98.3,155949,134456,76141
+2022-03-18T00:00:00.000,Connecticut,New London County,98.3,245212,208616,103820
+2022-03-18T00:00:00.000,Connecticut,New Haven County,98.3,802634,656023,325179
+2022-03-18T00:00:00.000,Connecticut,Unknown County,98.3,77402,48061,27562
+2022-03-18T00:00:00.000,Connecticut,Litchfield County,98.3,156351,135359,71798
+2022-03-18T00:00:00.000,Connecticut,Windham County,98.3,85863,74301,36163
+2022-03-18T00:00:00.000,Connecticut,Tolland County,98.3,114476,100222,57663
+2022-03-18T00:00:00.000,Connecticut,Hartford County,98.3,776157,670005,349128

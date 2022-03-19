@@ -1,0 +1,80 @@
+date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
+2022-03-18T00:00:00.000,Puerto Rico,Ciales Municipio,97.1,14914,13135,7538
+2022-03-18T00:00:00.000,Puerto Rico,Barceloneta Municipio,97.1,20624,17898,9546
+2022-03-18T00:00:00.000,Puerto Rico,Comerio Municipio,97.1,15637,13708,8390
+2022-03-18T00:00:00.000,Puerto Rico,Trujillo Alto Municipio,97.1,56074,46968,24602
+2022-03-18T00:00:00.000,Puerto Rico,Utuado Municipio,97.1,23018,20360,11868
+2022-03-18T00:00:00.000,Puerto Rico,Unknown County,97.1,95814,74920,36450
+2022-03-18T00:00:00.000,Puerto Rico,Barranquitas Municipio,97.1,24757,22286,13897
+2022-03-18T00:00:00.000,Puerto Rico,Las Piedras Municipio,97.1,31203,27117,15412
+2022-03-18T00:00:00.000,Puerto Rico,Orocovis Municipio,97.1,19214,17115,10749
+2022-03-18T00:00:00.000,Puerto Rico,Penuelas Municipio,97.1,18333,15957,9271
+2022-03-18T00:00:00.000,Puerto Rico,San Sebastian Municipio,97.1,33535,30707,18000
+2022-03-18T00:00:00.000,Puerto Rico,Morovis Municipio,97.1,26144,22301,12499
+2022-03-18T00:00:00.000,Puerto Rico,San Lorenzo Municipio,97.1,33178,28665,15082
+2022-03-18T00:00:00.000,Puerto Rico,Aguas Buenas Municipio,97.1,21938,19344,10640
+2022-03-18T00:00:00.000,Puerto Rico,Loiza Municipio,97.1,17568,14406,7132
+2022-03-18T00:00:00.000,Puerto Rico,Luquillo Municipio,97.1,14843,12221,5421
+2022-03-18T00:00:00.000,Puerto Rico,Vieques Municipio,97.1,8063,7160,3534
+2022-03-18T00:00:00.000,Puerto Rico,Manati Municipio,97.1,35359,30625,16659
+2022-03-18T00:00:00.000,Puerto Rico,Cabo Rojo Municipio,97.1,39108,34995,22251
+2022-03-18T00:00:00.000,Puerto Rico,Cidra Municipio,97.1,34724,29913,17378
+2022-03-18T00:00:00.000,Puerto Rico,Yabucoa Municipio,97.1,28097,24231,13639
+2022-03-18T00:00:00.000,Puerto Rico,Vega Alta Municipio,97.1,29621,24827,12497
+2022-03-18T00:00:00.000,Puerto Rico,Arecibo Municipio,97.1,77067,67305,37157
+2022-03-18T00:00:00.000,Puerto Rico,Naguabo Municipio,97.1,18599,16042,7974
+2022-03-18T00:00:00.000,Puerto Rico,Villalba Municipio,97.1,20971,19257,12969
+2022-03-18T00:00:00.000,Puerto Rico,Sabana Grande Municipio,97.1,20086,18179,11694
+2022-03-18T00:00:00.000,Puerto Rico,San German Municipio,97.1,26309,23551,14045
+2022-03-18T00:00:00.000,Puerto Rico,Carolina Municipio,97.1,141277,118559,62368
+2022-03-18T00:00:00.000,Puerto Rico,Arroyo Municipio,97.1,14739,12913,7253
+2022-03-18T00:00:00.000,Puerto Rico,Culebra Municipio,97.1,2026,1674,732
+2022-03-18T00:00:00.000,Puerto Rico,Patillas Municipio,97.1,14649,12840,7721
+2022-03-18T00:00:00.000,Puerto Rico,Rincon Municipio,97.1,11546,10385,4938
+2022-03-18T00:00:00.000,Puerto Rico,Ceiba Municipio,97.1,9561,8196,3744
+2022-03-18T00:00:00.000,Puerto Rico,Rio Grande Municipio,97.1,41439,34517,16822
+2022-03-18T00:00:00.000,Puerto Rico,Quebradillas Municipio,97.1,21702,19152,10539
+2022-03-18T00:00:00.000,Puerto Rico,Maricao Municipio,97.1,4290,3845,2239
+2022-03-18T00:00:00.000,Puerto Rico,Maunabo Municipio,97.1,8927,7839,4520
+2022-03-18T00:00:00.000,Puerto Rico,Ponce Municipio,97.1,132418,113640,63669
+2022-03-18T00:00:00.000,Puerto Rico,Yauco Municipio,97.1,33298,28938,17309
+2022-03-18T00:00:00.000,Puerto Rico,Humacao Municipio,97.1,46191,39993,22807
+2022-03-18T00:00:00.000,Puerto Rico,Gurabo Municipio,97.1,38349,33275,17832
+2022-03-18T00:00:00.000,Puerto Rico,San Juan Municipio,97.1,325308,263732,135251
+2022-03-18T00:00:00.000,Puerto Rico,Santa Isabel Municipio,97.1,18247,15495,8934
+2022-03-18T00:00:00.000,Puerto Rico,Naranjito Municipio,97.1,26116,22704,13103
+2022-03-18T00:00:00.000,Puerto Rico,Guayama Municipio,97.1,33641,28456,16325
+2022-03-18T00:00:00.000,Puerto Rico,Juana Diaz Municipio,97.1,38589,33429,19498
+2022-03-18T00:00:00.000,Puerto Rico,Aguadilla Municipio,97.1,45511,39725,20281
+2022-03-18T00:00:00.000,Puerto Rico,Hatillo Municipio,97.1,29805,27141,16330
+2022-03-18T00:00:00.000,Puerto Rico,Corozal Municipio,97.1,30321,25981,13983
+2022-03-18T00:00:00.000,Puerto Rico,Aguada Municipio,97.1,31819,27637,12902
+2022-03-18T00:00:00.000,Puerto Rico,Camuy Municipio,97.1,27120,23959,13541
+2022-03-18T00:00:00.000,Puerto Rico,Florida Municipio,97.1,11546,9986,5034
+2022-03-18T00:00:00.000,Puerto Rico,Adjuntas Municipio,97.1,14706,13179,7812
+2022-03-18T00:00:00.000,Puerto Rico,Toa Baja Municipio,97.1,67165,57091,30179
+2022-03-18T00:00:00.000,Puerto Rico,Canovanas Municipio,97.1,39708,34021,16926
+2022-03-18T00:00:00.000,Puerto Rico,Moca Municipio,97.1,32090,28935,16653
+2022-03-18T00:00:00.000,Puerto Rico,Aibonito Municipio,97.1,22140,20114,13437
+2022-03-18T00:00:00.000,Puerto Rico,Bayamon Municipio,97.1,176732,152441,84464
+2022-03-18T00:00:00.000,Puerto Rico,Cayey Municipio,97.1,41349,35275,21044
+2022-03-18T00:00:00.000,Puerto Rico,Isabela Municipio,97.1,34946,30551,15684
+2022-03-18T00:00:00.000,Puerto Rico,Lajas Municipio,97.1,19220,17227,10457
+2022-03-18T00:00:00.000,Puerto Rico,Guaynabo Municipio,97.1,90675,75291,41697
+2022-03-18T00:00:00.000,Puerto Rico,Juncos Municipio,97.1,33166,29150,15905
+2022-03-18T00:00:00.000,Puerto Rico,Fajardo Municipio,97.1,27223,22500,10740
+2022-03-18T00:00:00.000,Puerto Rico,Hormigueros Municipio,97.1,13905,12500,7829
+2022-03-18T00:00:00.000,Puerto Rico,Dorado Municipio,97.1,35189,28490,13963
+2022-03-18T00:00:00.000,Puerto Rico,Guayanilla Municipio,97.1,16459,14316,8158
+2022-03-18T00:00:00.000,Puerto Rico,Coamo Municipio,97.1,32357,27607,16390
+2022-03-18T00:00:00.000,Puerto Rico,Salinas Municipio,97.1,23306,20419,12320
+2022-03-18T00:00:00.000,Puerto Rico,Guanica Municipio,97.1,12853,11236,6877
+2022-03-18T00:00:00.000,Puerto Rico,Las Marias Municipio,97.1,7543,6889,4162
+2022-03-18T00:00:00.000,Puerto Rico,Mayaguez Municipio,97.1,64879,57900,35207
+2022-03-18T00:00:00.000,Puerto Rico,Toa Alta Municipio,97.1,57631,49571,24802
+2022-03-18T00:00:00.000,Puerto Rico,Jayuya Municipio,97.1,12398,11060,6448
+2022-03-18T00:00:00.000,Puerto Rico,Lares Municipio,97.1,26882,22711,12479
+2022-03-18T00:00:00.000,Puerto Rico,Anasco Municipio,97.1,21971,19836,11777
+2022-03-18T00:00:00.000,Puerto Rico,Catano Municipio,97.1,19835,16781,8492
+2022-03-18T00:00:00.000,Puerto Rico,Vega Baja Municipio,97.1,49973,41659,21597
+2022-03-18T00:00:00.000,Puerto Rico,Caguas Municipio,97.1,118389,102217,57181

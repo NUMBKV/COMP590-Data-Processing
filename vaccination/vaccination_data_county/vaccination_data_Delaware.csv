@@ -1,0 +1,5 @@
+date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
+2022-03-18T00:00:00.000,Delaware,Unknown County,96.1,32834,25642,10975
+2022-03-18T00:00:00.000,Delaware,Kent County,96.1,116567,100072,41418
+2022-03-18T00:00:00.000,Delaware,Sussex County,96.1,187450,157145,75994
+2022-03-18T00:00:00.000,Delaware,New Castle County,96.1,463203,380261,164790
