@@ -80,7 +80,6 @@ def plot_figure(ori, remove, title):
     plt.xlabel('Date')
     plt.ylabel('Cases')
     plt.legend()
-    
     return fig
     
 
