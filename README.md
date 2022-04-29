@@ -1,8 +1,12 @@
 # COMP590-Data-Processing
-## Our team members
-___, ___, ___, Kaiwen Deng
 ## 1. Confirmed Cases Data Processing
-Our daily confirmed cases database provider: [COVID-19 Data Repository at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)  
+### 1.1 Project Introduction
+This is a project that collects COVID-19 confirmed cases data from [COVID-19 Data Repository at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) 
+and process the data (originally cumulative) into the desired format (daily increment) 
+that is need by the COMP590 frontend and backend team. This project contains the usage of 
+[Google Colab](https://colab.research.google.com/), [Python3](https://www.python.org/) 
+and [pandas library](https://pandas.pydata.org/).
+
 
 Our vaccination database provider: [COVID-19 Vaccinations in the United States,County](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh)
 
@@ -23,3 +27,5 @@ Our vaccination database provider: [COVID-19 Vaccinations in the United States,C
 
 [//]: # (TBD, empty folder /vaccination)
 ## 2. Vaccination Data Processing
+## Our team members
+___, ___, ___, Kaiwen Deng
