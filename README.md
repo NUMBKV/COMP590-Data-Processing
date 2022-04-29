@@ -7,8 +7,10 @@ that is need by the COMP590 frontend and backend team. This project contains the
 [Google Colab](https://colab.research.google.com/), [Python3](https://www.python.org/) 
 and [pandas library](https://pandas.pydata.org/).
 
+### 1.2 Database
 
-Our vaccination database provider: [COVID-19 Vaccinations in the United States,County](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh)
+
+
 
 [//]: # (### 2.1 Daily Confirmed Cases)
 
@@ -28,4 +30,4 @@ Our vaccination database provider: [COVID-19 Vaccinations in the United States,C
 [//]: # (TBD, empty folder /vaccination)
 ## 2. Vaccination Data Processing
 ## Our team members
-___, ___, ___, Kaiwen Deng
+___, ___, ___, Kaiwen Deng([kd45@rice.edu](mailto:kd45@rice.edu))
