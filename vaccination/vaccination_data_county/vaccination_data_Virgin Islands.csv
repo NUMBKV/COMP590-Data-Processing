@@ -1,5 +1,5 @@
 date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
-2022-03-18T00:00:00.000,Virgin Islands,Unknown County,86.8,8778,7454,2752
-2022-03-18T00:00:00.000,Virgin Islands,St. Thomas Island,86.8,29235,23657,5689
-2022-03-18T00:00:00.000,Virgin Islands,St. John Island,86.8,3663,3036,803
-2022-03-18T00:00:00.000,Virgin Islands,St. Croix Island,86.8,26413,22141,6861
+2022-04-28T00:00:00.000,Virgin Islands,Unknown County,86.8,8826,7489,2882
+2022-04-28T00:00:00.000,Virgin Islands,St. Croix Island,86.8,26855,22285,7147
+2022-04-28T00:00:00.000,Virgin Islands,St. Thomas Island,86.8,29729,23918,6335
+2022-04-28T00:00:00.000,Virgin Islands,St. John Island,86.8,3711,3055,844

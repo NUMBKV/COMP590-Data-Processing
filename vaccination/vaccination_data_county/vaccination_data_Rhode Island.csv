@@ -1,7 +1,7 @@
 date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
-2022-03-18T00:00:00.000,Rhode Island,Providence County,89.6,505644,446695,223489
-2022-03-18T00:00:00.000,Rhode Island,Kent County,89.6,140702,127928,74001
-2022-03-18T00:00:00.000,Rhode Island,Washington County,89.6,110531,97429,58555
-2022-03-18T00:00:00.000,Rhode Island,Newport County,89.6,72738,60928,31299
-2022-03-18T00:00:00.000,Rhode Island,Bristol County,89.6,42766,37945,22990
-2022-03-18T00:00:00.000,Rhode Island,Unknown County,89.6,155674,89856,38236
+2022-04-28T00:00:00.000,Rhode Island,Washington County,89.2,111343,98356,60149
+2022-04-28T00:00:00.000,Rhode Island,Unknown County,89.2,163197,94689,42045
+2022-04-28T00:00:00.000,Rhode Island,Bristol County,89.2,43044,38225,23636
+2022-04-28T00:00:00.000,Rhode Island,Providence County,89.2,510026,451381,232479
+2022-04-28T00:00:00.000,Rhode Island,Kent County,89.2,141552,128877,76226
+2022-04-28T00:00:00.000,Rhode Island,Newport County,89.2,73427,61727,32140

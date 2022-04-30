@@ -32,5 +32,6 @@ Below is a plot of a sample visualization of this result (the below zero value i
 ![Samples visualization from new_daily_states_county](daily_cases/county.jpeg)
 
 ## 2. Vaccination Data Processing
+
 ## Our team members
-___, ___, ___, Kaiwen Deng([kd45@rice.edu](mailto:kd45@rice.edu)), Jing Gao([jg107@rice.edu](mailto:jg107@rice.edu))
+Hsuan-Ling Lin([hl94@rice.edu](mailto:hl94@rice.edu)), Liming Yao([ly38@rice.edu](mailto:ly38@rice.edu)), Yuhua Chen([yc143@rice.edu](mailto:yc143@rice.edu)), Kaiwen Deng([kd45@rice.edu](mailto:kd45@rice.edu)), Jing Gao([jg107@rice.edu](mailto:jg107@rice.edu))

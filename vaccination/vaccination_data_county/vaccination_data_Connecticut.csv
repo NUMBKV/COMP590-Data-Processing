@@ -1,10 +1,10 @@
 date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
-2022-03-18T00:00:00.000,Connecticut,Fairfield County,98.3,950409,760586,357535
-2022-03-18T00:00:00.000,Connecticut,Middlesex County,98.3,155949,134456,76141
-2022-03-18T00:00:00.000,Connecticut,New London County,98.3,245212,208616,103820
-2022-03-18T00:00:00.000,Connecticut,New Haven County,98.3,802634,656023,325179
-2022-03-18T00:00:00.000,Connecticut,Unknown County,98.3,77402,48061,27562
-2022-03-18T00:00:00.000,Connecticut,Litchfield County,98.3,156351,135359,71798
-2022-03-18T00:00:00.000,Connecticut,Windham County,98.3,85863,74301,36163
-2022-03-18T00:00:00.000,Connecticut,Tolland County,98.3,114476,100222,57663
-2022-03-18T00:00:00.000,Connecticut,Hartford County,98.3,776157,670005,349128
+2022-04-28T00:00:00.000,Connecticut,Middlesex County,98.3,157301,135606,78237
+2022-04-28T00:00:00.000,Connecticut,New Haven County,98.3,814261,665847,339431
+2022-04-28T00:00:00.000,Connecticut,Windham County,98.3,86543,74952,37334
+2022-04-28T00:00:00.000,Connecticut,Tolland County,98.3,115432,101061,59206
+2022-04-28T00:00:00.000,Connecticut,Unknown County,98.3,79056,48789,28136
+2022-04-28T00:00:00.000,Connecticut,Hartford County,98.3,783463,676896,361657
+2022-04-28T00:00:00.000,Connecticut,Litchfield County,98.3,157756,136544,73902
+2022-04-28T00:00:00.000,Connecticut,Fairfield County,98.3,962624,770845,370501
+2022-04-28T00:00:00.000,Connecticut,New London County,98.3,247804,210709,107319
