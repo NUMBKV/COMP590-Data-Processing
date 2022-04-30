@@ -23,7 +23,7 @@ And we save that into [daily_cases/new_daily.csv](https://github.com/NUMBKV/COMP
 Then, based on our backend team's demands, we sum the counties' daily data by state to show every states' daily 
 confirmed cases and save the aggregation result into [daily_cases/new_daily_states.csv](https://github.com/NUMBKV/COMP590-Data-Processing/blob/2f3621c39b0d5599fa7ba75eee4e8fb67c5e4a4d/daily_cases/new_daily_states.csv). 
 Below is a plot of a sample visualization of this result.
-![Samples visualization from new_daily_states.csv](daily_cases/state.png)
+![Samples visualization from new_daily_states.csv](daily_cases/state.jpeg)
 
 Finally, to ease the backend load and accelerate our website's performance, we separate the counties' that belongs to the same state/territory and then 
 aggregate them into a csv file called confirmed_cases_statename.csv. 
