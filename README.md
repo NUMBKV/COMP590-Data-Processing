@@ -32,6 +32,60 @@ Below is a plot of a sample visualization of this result (the below zero value i
 ![Samples visualization from new_daily_states_county](daily_cases/county.jpeg)
 
 ## 2. Vaccination Data Processing
+### 2.1 Project Introduction
+The goal of the Vaccination Data Processing project is to crawl data from [Centers for Disease Control and Prevention](https://www.cdc.gov/)
+and process data to the demanded format.
+We mainly want the vaccination completeness percentage, first dose, series dose,
+and booster dose completeness percentage. Therefore, We retrieved these columns from the data we crawled from CDC.
+We produce vaccination CSV down to county level by state. (e.g., vaccination_data_Texas.csv) which can be used for the front-end and back-end team in the future. We leverage Web crawling with Python to complete this project.
+The Tech-stack in our project includes [Python3](https://www.python.org/), [Pandas Library](https://pandas.pydata.org/),
+[Sodapy Library](https://pypi.org/project/sodapy/0.1.4/), and [Python Requests Module](https://docs.python-requests.org/).
+Our notebook run on [Google Colab](https://colab.research.google.com/).
+
+
+### 2.2 Database and Data Retrieval
+Our database provider is the [Centers for Disease Control and Prevention](https://www.cdc.gov/)
+and the vaccination dataset we use for this project is from [Centers for Disease Control and Prevention](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh).
+CDC has the most dated vaccination dataset. The vaccination data has all 3343 counties in all 58 states and territories of the United States.
+We did the data retrieval from the website, and we retrieved the column we needed to format our CSV data.
+The columns in the CSV are date, state, county, completeness percentage, the first dose, series dose, and the booster dose.
+
+
+### 2.3 Detailed Workflow
+The steps in our vaccination data processing are as below. To implement web crawling using Python, 
+we exploited the request module and sodapy to crawl data from the CDC website.
+```python
+# Unauthenticated client only works with public data sets. Note 'None'
+# in place of application token, and no username or password:
+client = Socrata("data.cdc.gov", None)
+
+# Returned as JSON from API / converted to Python list of dictionaries by sodapy.
+results = client.get_all("8xkx-amqh", date='2022-04-28')
+```
+We use Socrata to connect to data.cdc.gov Open Data, then get all the vaccination data.
+Since our goal is to format data by state level, we want to output each state's vaccination data.
+Hence, we use python to process data to store data in a dictionary, the key is each state, and the value is the state's vaccination data.
+Then, we loop through the dictionary, and we create a pandas data frame and
+this will be our output CSV format, send data to pandas,
+then append each record to the pandas dataframe.
+```python
+df = pd.DataFrame(columns=['date', 'recip_state', 'recip_county', 'completeness_pct', 'administered_dose1_recip', 'series_complete_yes', 'booster_doses'])
+```
+Finally, we could output the CSV of each state. All the state's vaccination data are in this directory:
+[vaccination_data_county](https://github.com/NUMBKV/COMP590-Data-Processing/tree/main/vaccination/vaccination_data_county).
+We output a CSV with all state data: [vaccination_data_all.csv](https://github.com/NUMBKV/COMP590-Data-Processing/blob/main/vaccination/vaccination_data_all.csv).
+Below is a plot of a sample visualization of our vaccination result.
+
+Texas series complete recipient by county level at 04/29/2022:
+
+<img src="vaccination/Texas_series_complete_recipient.jpg" width="300">
+
+Texas booster dose recipient by county level at 04/29/2022:
+
+<img src="vaccination/Texas_booster_dose_recipient.jpg" width="300">
+
+By changing below date field value in our notebook, we could get the most dated vaccination data.
+(results = client.get_all("8xkx-amqh", date='2022-04-28')).
 
 ## Our team members
 Hsuan-Ling Lin([hl94@rice.edu](mailto:hl94@rice.edu)), Liming Yao([ly38@rice.edu](mailto:ly38@rice.edu)), Yuhua Chen([yc143@rice.edu](mailto:yc143@rice.edu)), Kaiwen Deng([kd45@rice.edu](mailto:kd45@rice.edu)), Jing Gao([jg107@rice.edu](mailto:jg107@rice.edu))
