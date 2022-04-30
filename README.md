@@ -40,7 +40,7 @@ and booster dose completeness percentage. Therefore, We retrieved these columns 
 We produce vaccination CSV down to county level by state. (e.g., vaccination_data_Texas.csv) which can be used for the front-end and back-end team in the future. We leverage Web crawling with Python to complete this project.
 The Tech-stack in our project includes [Python3](https://www.python.org/), [Pandas Library](https://pandas.pydata.org/),
 [Sodapy Library](https://pypi.org/project/sodapy/0.1.4/), and [Python Requests Module](https://docs.python-requests.org/).
-Our notebook run on [Google Colab](https://colab.research.google.com/).
+Our notebook is [vaccination_data_processing.ipynb](https://github.com/NUMBKV/COMP590-Data-Processing/blob/main/vaccination/vaccination_data_processing.ipynb) and run on [Google Colab](https://colab.research.google.com/).
 
 
 ### 2.2 Database and Data Retrieval
