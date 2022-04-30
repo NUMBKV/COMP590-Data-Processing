@@ -78,11 +78,11 @@ Below is a plot of a sample visualization of our vaccination result.
 
 Texas series complete recipient by county level at 04/29/2022:
 
-<img src="vaccination/Texas_series_complete_recipient.jpg" width="300">
+<img src="vaccination/Texas_series_complete_recipient.jpg" width="480" height="180" />
 
 Texas booster dose recipient by county level at 04/29/2022:
 
-<img src="vaccination/Texas_booster_dose_recipient.jpg" width="300">
+<img src="vaccination/Texas_booster_dose_recipient.jpg" width="480" height="180" />
 
 By changing below date field value in our notebook, we could get the most dated vaccination data.
 (results = client.get_all("8xkx-amqh", date='2022-04-28')).
