@@ -31,6 +31,9 @@ All these saved file are in [daily_cases/new_daily_states_county](https://github
 Below is a plot of a sample visualization of this result (the below zero value is due to statistical error).
 ![Samples visualization from new_daily_states_county](daily_cases/county.jpeg)
 
+### 1.4 Reproduce our work
+To reproduce our work, you can simply domnload [daily_cases/covid_data_processing.ipynb](https://github.com/NUMBKV/COMP590-Data-Processing/blob/main/daily_cases/covid_data_processing.ipynb) and run the cells to get the full work flow of our processing code.
+
 ## 2. Vaccination Data Processing
 ### 2.1 Project Introduction
 The goal of the Vaccination Data Processing project is to crawl data from [Centers for Disease Control and Prevention](https://www.cdc.gov/)
