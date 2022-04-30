@@ -29,7 +29,7 @@ Finally, to ease the backend load and accelerate our website's performance, we s
 aggregate them into a csv file called confirmed_cases_statename.csv. 
 All these saved file are in [daily_cases/new_daily_states_county](https://github.com/NUMBKV/COMP590-Data-Processing/blob/2f3621c39b0d5599fa7ba75eee4e8fb67c5e4a4d/daily_cases/new_daily_states_county).
 Below is a plot of a sample visualization of this result (the below zero value is due to statistical error).
-
+![Samples visualization from new_daily_states_county](daily_cases/county.jpeg)
 
 ## 2. Vaccination Data Processing
 ## Our team members
