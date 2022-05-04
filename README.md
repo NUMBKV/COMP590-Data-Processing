@@ -77,6 +77,10 @@ df = pd.DataFrame(columns=['date', 'recip_state', 'recip_county', 'completeness_
 Finally, we could output the CSV of each state. All the state's vaccination data are in this directory:
 [vaccination_data_county](https://github.com/NUMBKV/COMP590-Data-Processing/tree/main/vaccination/vaccination_data_county).
 We output a CSV with all state data: [vaccination_data_all.csv](https://github.com/NUMBKV/COMP590-Data-Processing/blob/main/vaccination/vaccination_data_all.csv).
+
+### 2.4 Graphics
+Below is a plot of a sample visualization of our vaccination result.
+
 Below is a plot of a sample visualization of our vaccination result.
 
 Texas Series Complete Recipient by County Level at 04/29/2022:
@@ -91,6 +95,13 @@ Note: By changing below date field value in our notebook, we could get the most 
 ```python
 results = client.get_all("8xkx-amqh", date='2022-04-28')
 ```
+
+### 2.5 Reference
+https://colab.research.google.com/github/jsoma/NICAR20-apis/blob/master/Hitchhikers%20Guide%20to%20APIs.ipynb
+
+
+### 2.6 Reproduce our work
+To reproduce our work, you can simply domnload [vaccination_data_processing.ipynb](https://github.com/NUMBKV/COMP590-Data-Processing/blob/main/vaccination/vaccination_data_processing.ipynb) and run the cells to get the full work flow of our processing code.
 
 ## Our team members
 Hsuan-Ling Lin([hl94@rice.edu](mailto:hl94@rice.edu)), Liming Yao([ly38@rice.edu](mailto:ly38@rice.edu)), Yuhua Chen([yc143@rice.edu](mailto:yc143@rice.edu)), Kaiwen Deng([kd45@rice.edu](mailto:kd45@rice.edu)), Jing Gao([jg107@rice.edu](mailto:jg107@rice.edu))
